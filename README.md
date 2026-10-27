@@ -1,5 +1,5 @@
 # Binomial-Option-Pricing-Convergence-Analysis-and-Leisen-Reimer-Comparison-
- Binomial Option Pricing: CRR vs Leisen–Reimer Convergence  A numerical study of how fast two binomial trees converge to the Black–Scholes price of a European call: the Cox–Ross–Rubinstein (CRR) model and the Leisen–Reimer (LR) model with Peizer–Pratt 2 (PP2) inversion. Both are implemented as Excel VBA functions.
+Binomial Option Pricing: CRR vs Leisen–Reimer Convergence. A numerical study of how fast two binomial trees converge to the Black–Scholes price of a European call: the Cox–Ross–Rubinstein (CRR) model and the Leisen–Reimer (LR) model with Peizer–Pratt 2 (PP2) inversion. Both are implemented as Excel VBA functions.
 
 
 ## Setup
